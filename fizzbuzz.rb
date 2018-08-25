@@ -5,9 +5,4 @@ def fizzbuzz(num)
     "Buzz"
   if num % 3 || 5 == 0
     "FizzBuzz"
-  else
-    nil
   end
-end
-end
-end
